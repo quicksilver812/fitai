@@ -7,12 +7,3 @@ export default {
   plugins: [],
 };
 
-//from here on
-
-module.exports = {
-  darkMode: 'class', // Enables class-based dark mode
-  theme: {
-    extend: {},
-  },
-  plugins: [],
-};
